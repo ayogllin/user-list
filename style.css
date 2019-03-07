@@ -1,0 +1,27 @@
+.navbar-brand {
+	font-size: 24px;
+	font-weight: bold;
+	color: white;
+}
+
+.card-body {
+	min-height: 80px;
+	text-align: center;
+}
+
+.card-text {
+	color: #b7b9bc;
+}
+
+.card-footer {
+	text-align: center;
+}
+
+.cardGender {
+	text-transform: capitalize;	
+}
+
+#show-user-region {
+	color: #b7b9bc;
+}
+
